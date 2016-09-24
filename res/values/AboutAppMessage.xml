@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="aboutApp_title">About App</string>
+ <string name="aboutApp_message">
+     
+     \'Easy Searching\' is an\n
+     application for searching datas\n
+     inside the phone memory.\n\n
+     You can search for\n
+     Images,Videos,Musics,\n
+     Applications and other files\n
+     through this application.\n\n
+     
+     Search :\n
+     Selecting a category you will\n
+     get all the files in that one in a\n
+     list.Then you can put the name\n
+     and get the desired one or you\n
+     can just scroll up and down to\n
+     find it.\n\n
+     
+     Open :\n
+     To open a file you just have to\n
+     tap the screen once.\n\n
+     
+     If any default player is not\n
+     selected or can not be found\n
+     you will be asked for chosing\n
+     one.Here we recommend you\n
+     to prefer the \'just once\' option \n
+     after chosing a player.\n
+     Otherwise it may try to open\n
+     all the files with it which may\n
+     not be possible.\n\n
+     THANK YOU FOR USING THIS \n
+     APPLICATION.
+  
+  
+ </string>
+ <string name="aboutApp_ok">OK</string>
+</resources>

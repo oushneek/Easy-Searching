@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="aboutUs_title">About Us</string>
+ <string name="aboutUs_message">
+  
+  \'Easy Searching\' application is\n
+  designed for CSE 200 project.\n\n
+  
+  Submitted To : \n
+  Debakar Shamanta Piklu,\n
+  Assistant Professor,\n
+  Department of CSE,SUST.\n\n
+  
+  Submitted By : \n
+  1.\n
+  Tazbeea Tazakka\n
+  Reg: 2010331027\n
+  2.\n
+  Md. Asifuzzaman\n
+  Reg: 2010331034\n\n
+  
+  SPECIAL THANKS TO\n
+  ASHRAFUL ISLAM\n
+  FOR PROVIDING US WITH ALL\n
+  POSSIBLE GUIDELINES.
+ </string>
+ 
+ <string name="aboutUs_ok">OK</string>
+</resources>
